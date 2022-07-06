@@ -1,0 +1,30 @@
+.admin-icon{
+    margin-right: 20px;
+}
+
+.admin-name{
+    color: #fff;
+    font-size: 110%;
+}
+
+.logout:hover{
+    background-color: rgb(186, 179, 179) ;
+}
+
+.card{
+    margin-top: 2rem;
+}
+
+.unread{
+    background-color: #ffffff;
+    border-radius: 50%;
+    color: #000000;
+}
+
+.last-time-login{
+    color:blue;
+}
+
+i{
+    border-radius: 8px;
+}
