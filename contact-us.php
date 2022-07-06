@@ -29,7 +29,7 @@
 
             <h5 class="mt-3 fs-0">Call us</h5>
             <a href="tel:0771875764" class="d-inline-block mb-2 text-decoration-none text-dark">
-              <i class="bi bi-telephone-fill"></i> 0362249181
+              <i class="bi bi-telephone-fill"></i> +94701875764
               <br>
               <i class="bi bi-telephone-fill"></i> +94771875764
             </a>
