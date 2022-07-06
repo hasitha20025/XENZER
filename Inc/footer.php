@@ -13,43 +13,29 @@
           <!-- Grid column -->
           <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">
-            Company
+            XENZER
             </h6>
             <p>
-              <a href="about.php" style="color:rgba(0,0,0,.7); text-decoration: none;">About Us</a>
+              <a href="index.php" style="color:rgba(0,0,0,.7); text-decoration: none;">Home</a>
             </p>
             <p>
-              <a style="color:rgba(0,0,0,.7);">Our Services</a>
+              <a href="room.php" style="color:rgba(0,0,0,.7); text-decoration: none;">Room</a>
             </p>
             <p>
-              <a style="color:rgba(0,0,0,.7);">Privacy Policy</a>
+              <a href="contact-us.php" style="color:rgba(0,0,0,.7); text-decoration: none;">Contact</a>
             </p>
             <p>
-              <a style="color:rgba(0,0,0,.7);">Affiliate Program</a>
+              <a href="facilities.php" style="color:rgba(0,0,0,.7); text-decoration: none;">Facilities</a>
+            </p>
+            <p>
+              <a href="About.php" style="color:rgba(0,0,0,.7); text-decoration: none;">About</a>
+            </p>
+            <p>
+              <a href="gallery.php" style="color:rgba(0,0,0,.7); text-decoration: none;">Gallery</a>
             </p>
           </div>
-          <!-- Grid column -->
 
-          <hr class="w-100 clearfix d-md-none" />
-          <!-- Grid column -->
-          <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
-            <h6 class="text-uppercase mb-4 font-weight-bold">Get Help</h6>
-            <p>
-              <a style="color:rgba(0,0,0,.7);">FAQ</a>
-            </p>
-            <p>
-              <a style="color:rgba(0,0,0,.7);">Shipping</a>
-            </p>
-            <p>
-              <a style="color:rgba(0,0,0,.7);">Returns</a>
-            </p>
-            <p>
-              <a style="color:rgba(0,0,0,.7);">Order status</a>
-            </p>
-            <p>
-              <a style="color:rgba(0,0,0,.7);">Payment options</a>
-            </p>
-          </div>
+          
           <!-- Grid column -->
 
           <hr class="w-100 clearfix d-md-none" />
@@ -75,7 +61,7 @@
             <a
                class="btn btn-floating m-1"
                style="border-radius: 30px;background-color:black;border:none"
-               href="#!"
+               href="https://www.facebook.com"
                role="button"
                ><i class="fab fa-facebook-f" style="color:white;"></i
               ></a>
@@ -84,7 +70,7 @@
             <a
             class="btn btn-floating m-1"
                style="border-radius: 30px;background-color:black;border:none"
-               href="#!"
+               href="https://twitter.com"
                role="button"
                ><i class="fab fa-twitter"  style="color:white;"></i
               ></a>
@@ -93,7 +79,7 @@
             <a
             class="btn btn-floating m-1"
                style="border-radius: 30px;background-color:black;border:none"
-               href="#!"
+               href="https://www.google.com"
                role="button"
                ><i class="fab fa-google"  style="color:white;"></i
               ></a>
@@ -102,7 +88,7 @@
             <a
             class="btn btn-floating m-1"
                style="border-radius: 30px;background-color:black;border:none"
-               href="#!"
+               href="https://www.instagram.com"
                role="button"
                ><i class="fab fa-instagram"  style="color:white;"></i
               ></a>
@@ -111,18 +97,11 @@
             <a
             class="btn btn-floating m-1"
                style="border-radius: 30px;background-color:black;border:none"
-               href="#!"
+               href="https://sg.linkedin.com"
                role="button"
                ><i class="fab fa-linkedin-in"  style="color:white;"></i
               ></a>
-            <!-- Github -->
-            <a
-            class="btn btn-floating m-1"
-               style="border-radius: 30px;background-color:black;border:none"
-               href="#!"
-               role="button"
-               ><i class="fab fa-github"  style="color:white;"></i
-              ></a>
+            
           </div>
         </div>
         <!--Grid row-->

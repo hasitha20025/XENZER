@@ -54,6 +54,9 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="About.php">About-Us</a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="gallery.php">Gallery</a>
+                            </li>
                         </ul>
                         <div class="d-flex justify-content-end" style="padding-left:30px;">
                             <?php if(!$userLoggedIn){?>

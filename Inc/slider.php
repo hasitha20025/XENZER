@@ -2,14 +2,14 @@
 <br><br><br><br><br> -->
 
 <div class="slide-container swiper" style="margin:0px;">
-    <div class="slide-content">
+<div class="slide-content">
         <div class="card-wrapper swiper-wrapper">
-            <?php $persons=[
-                ["name"=>"kavindu", "message"=>"The lorem text the section that contains header with having open functionality","image"=>"./Images/Team/hasitha.png"],
-                ["name"=>"damsith", "message"=>"The lorem text the section that contains header with having open functionality" ,"image"=>"./Images/Team/hasitha.png"],
-                ["name"=>"bandara", "message"=>"The lorem text the section that contains header with having open functionality" ,"image"=>"./Images/Team/hasitha.png"],
-                ["name"=>"thilakarathna", "message"=>"The lorem text the section that contains header with having open functionality" ,"image"=>"./Images/Team/hasitha.png"],
-            ];
+        <?php $persons=array(
+                ["name"=>"Dilani", "message"=>"A really nice hotel.Staff the Hotel and restaurant nice.","image"=>"./Images/Team/87.png"],
+                ["name"=>"Maheshi", "message"=>"Good hotel. The staff are friendly. " ,"image"=>"./Images/Team/95.png"],
+                ["name"=>"Pubuduni", "message"=>"Location is easy and other facilities are perfect" ,"image"=>"./Images/Team/75.png"],
+                ["name"=>"Hasitha ", "message"=>"Very nice hotel and very nice stuff.. Like it" ,"image"=>"./Images/Team/25.png"],
+            );
                 
                 ?>
             <?php foreach($persons as $person){?>

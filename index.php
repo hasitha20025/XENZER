@@ -102,7 +102,8 @@
     </div>
 </div>
 
-<!-------------Testimonials-------------->
+<!-------------What People Say-------------->
+
 <div data-aos="slide-right">
 <h2 class="mt-5 pt-5 mb-4 text-center fw-light ">" What People Say "</h2>
 <div class="d-flex justify-content-center py-0" >
